@@ -1,0 +1,15 @@
+.header {
+    background-color: whitesmoke;
+    height: 30vh;
+  width: 100%;
+  list-style-type: none;
+
+
+}
+.b-toolbar-contents {
+  display: flex;
+  flex-direction: row;
+}
+
+
+
